@@ -26,7 +26,7 @@ Matplotlib, Seaborn (Data Visualization)
 
 Scikit-Learn (Machine Learning)
 
-Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 The project begins with data exploration, which includes:
 
 Handling missing values and outliers
@@ -58,13 +58,14 @@ Classification Report
 ROC Curve & AUC Score
 
 # Key Findings
-Certain behavioral and health factors significantly contribute to diabetes risk.
-Feature importance analysis shows that BMI, Hypertension, and Physical Inactivity are strong predictors.
-Machine learning models successfully classify individuals based on diabetes risk.
-Conclusion
+  1. Certain behavioral and health factors significantly contribute to diabetes risk.
+  2. Feature importance analysis shows that BMI, Hypertension, and Physical Inactivity are strong predictors.
+  3. Machine learning models successfully classify individuals based on diabetes risk.
+
+# Conclusion
 This project demonstrates the power of machine learning in predicting diabetes risk using health indicators. The findings can be utilized for public health awareness, preventive measures, and early diagnosis strategies.
 
-Future Scope
-Experimenting with deep learning models for improved accuracy.
-Deploying the model as a web-based predictive tool.
-Feature engineering for more insightful predictors.
+# Future Scope
+  1. Experimenting with deep learning models for improved accuracy.
+  2. Deploying the model as a web-based predictive tool.
+  3. Feature engineering for more insightful predictors.
